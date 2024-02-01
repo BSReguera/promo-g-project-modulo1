@@ -1,2 +1,2 @@
-# promo-g-project-modulo1
-Proyecto del equipo 1 de Módulo 1 de Data
+# promo-g-project-equipo2
+Proyecto del equipo 2 
