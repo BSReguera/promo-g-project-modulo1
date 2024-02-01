@@ -1,2 +1,2 @@
-# promo-g-project-equipo2
-Proyecto del equipo 2 
+# proyecto-da-promo-G-modulo-1-team-2
+Proyecto del team 2 
