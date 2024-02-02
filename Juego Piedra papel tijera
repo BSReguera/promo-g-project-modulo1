@@ -25,7 +25,13 @@ PROPUESTAS PSEUDOCÓDIGO
 
 
 import random
+lista = ["piedra", "papel", "tijera"]
+random.choice(lista)
+
+
+
 1.num_puntos_objetivo = 3
+
 2.	Implementa una función que obtenga la elección del jugador y valide que sea una de las opciones válidas ("Piedra", "Papel" o "Tijera").
 elecciondeljugador = input()
 o	Piedra vence a Tijera.
