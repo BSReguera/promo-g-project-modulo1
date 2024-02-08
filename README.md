@@ -55,7 +55,7 @@ El juego seleccionará aleatoriamente una palabra para que adivines.
 Para jugar al juego de Preguntas y Respuestas de Geografía, ejecuta el archivo geografia.py. Responde las preguntas de geografía que se presentan y verifica tus respuestas.
 
 
-# ¿QUÉ HEMOS LOGRADO?
+# ¿QUÉ HEMOS LOGRADO?:
 
 Hemos utilizado Python como lenguaje de programación. 
 Con ello hemos logrado el modo de que el usuario pueda: 
@@ -69,7 +69,7 @@ Con ello hemos logrado el modo de que el usuario pueda:
 - Mostrar el resultado del juego.
 
 
-# MEJORAS FUTURAS 
+# MEJORAS FUTURAS: 
 
 Para que la experiencia del juego sea aún mejor, podríamos implementar las siguientes opciones: 
 
@@ -98,7 +98,6 @@ Para que la experiencia del juego sea aún mejor, podríamos implementar las sig
 - Modo multijugador. ¡Diviérte con tus amigos!
 
 
-# ¿QUIÉRES MEJORAR ALGO? 
+# ¿QUIÉRES MEJORAR ALGO?: 
 
 Si tienes alguna pregunta o sugerencia, no dudes en reportarnos el problema o enviar una solicitud de extracción.¡Las contribuciones son bienvenidas!
-
