@@ -1,5 +1,6 @@
-<div style="float:right; margin-left: 20px;">
-    <img src="https://github.com/BSReguera/proyecto-da-promo-G-modulo-1-team-2/blob/main/smile%20vintage%20video-games%E2%80%94%20GAME%20ON%20%E2%80%94.png" alt="logo">
+<div style="text-align: right">
+  <img src="https://github.com/BSReguera/proyecto-da-promo-G-modulo-1-team-2/blob/main/smile%20vintage%20video-games%E2%80%94%20GAME%20ON%20%E2%80%94.png" alt="logo" style="float: right; margin-left: 20px; width: 100px;">
+</div>>
 </div>
 
 
