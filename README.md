@@ -1,18 +1,5 @@
-<style>
-    .image-container {
-        position: fixed;
-        top: 0;
-        right: 0;
-        width: 100%;
-        text-align: right;
-    }
-    .logo-img {
-        width: 100px; /* ajusta el tamaño de acuerdo a tus necesidades */
-    }
-</style>
-
-<div class="image-container">
-    <img src="https://github.com/BSReguera/proyecto-da-promo-G-modulo-1-team-2/blob/main/smile%20vintage%20video-games%E2%80%94%20GAME%20ON%20%E2%80%94.png" alt="Descripción de la imagen" class="logo-img">
+<div align="right">
+  <img src="https://github.com/BSReguera/proyecto-da-promo-G-modulo-1-team-2/blob/main/smile%20vintage%20video-games%E2%80%94%20GAME%20ON%20%E2%80%94.png" alt="Descripción de la imagen" width="100">
 </div>
 
 
