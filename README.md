@@ -32,11 +32,12 @@ Este proyecto ha sido creado por la empresa Smiley Videogames que forma parte de
 Para jugar a estos juegos tan solo necesitarás: 
 
 - Descargar o clonar el repositorio. 
-Dentro del repositorio encontrarás 3 archivos: 
+Dentro del repositorio encontrarás 4 archivos: 
 
-        - piedra_papel_tijera.py: Contiene el código para el juego de Piedra, Papel, Tijera.
-        - ahorcado.py: Contiene el código para el juego del Ahorcado.
-        - geografia.py: Contiene el código para el juego de Preguntas y Respuestas de Geografía.
+        - Automatización.ipynb: Contiene los 3 juegos automatizados. Podrás jugar a los 3 juegos con este único archivo.
+        - Juego-piedra_papel_tijera.ipynb: Contiene el código para el juego de Piedra, Papel, Tijera.
+        - Juego-ahorcado.ipynb: Contiene el código para el juego del Ahorcado.
+        - Juego-preguntas.ipynb: Contiene el código para el juego de Preguntas y Respuestas de Geografía.
 
 
 # INSTRUCCIONES DE USO: 
