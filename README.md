@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://github.com/BSReguera/proyecto-da-promo-G-modulo-1-team-2/blob/main/smile%20vintage%20video-games%E2%80%94%20GAME%20ON%20%E2%80%94.png" alt="Descripción de la imagen" width="100">
+  <img src="https://github.com/BSReguera/proyecto-da-promo-G-modulo-1-team-2/blob/main/Logo%20smile%20vintage%20video-games%E2%80%94%20GAME%20ON%20%E2%80%94.png" alt="Descripción de la imagen" width="100">
 </div>
 
 
@@ -40,7 +40,7 @@ Dentro del repositorio encontrarás 4 archivos:
         - Juego-preguntas.ipynb: Contiene el código para el juego de Preguntas y Respuestas de Geografía.
 
 
-# INSTRUCCIONES DE USO: 
+# 3. INSTRUCCIONES DE USO: 
 
 ## Piedra, Papel, Tijera
 
@@ -56,7 +56,7 @@ El juego seleccionará aleatoriamente una palabra para que adivines.
 Para jugar al juego de Preguntas y Respuestas de Geografía, ejecuta el archivo geografia.py. Responde las preguntas de geografía que se presentan y verifica tus respuestas.
 
 
-# ¿QUÉ HEMOS LOGRADO?:
+# 4. ¿QUÉ HEMOS LOGRADO?:
 
 Hemos utilizado Python como lenguaje de programación. 
 Con ello hemos logrado el modo de que el usuario pueda: 
@@ -70,7 +70,7 @@ Con ello hemos logrado el modo de que el usuario pueda:
 - Mostrar el resultado del juego.
 
 
-# MEJORAS FUTURAS: 
+# 5. MEJORAS FUTURAS: 
 
 Para que la experiencia del juego sea aún mejor, podríamos implementar las siguientes opciones: 
 
@@ -99,6 +99,6 @@ Para que la experiencia del juego sea aún mejor, podríamos implementar las sig
 - Modo multijugador. ¡Diviérte con tus amigos!
 
 
-# ¿QUIÉRES MEJORAR ALGO?: 
+# 6. ¿QUIÉRES MEJORAR ALGO?: 
 
 Si tienes alguna pregunta o sugerencia, no dudes en reportarnos el problema o enviar una solicitud de extracción.¡Las contribuciones son bienvenidas!
