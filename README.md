@@ -34,7 +34,7 @@ Para jugar a estos juegos tan solo necesitarás:
 - Descargar o clonar el repositorio. 
 Dentro del repositorio encontrarás 4 archivos: 
 
-        - Juegos_automatizados.ipynb: Contiene los 3 juegos automatizados. Podrás jugar a los 3 juegos con este único archivo.
+        - Juegos-automatizados.ipynb: Contiene los 3 juegos automatizados. Podrás jugar a los 3 juegos con este único archivo.
         - Juego-piedra_papel_tijera.ipynb: Contiene el código para el juego de Piedra, Papel, Tijera.
         - Juego-ahorcado.ipynb: Contiene el código para el juego del Ahorcado.
         - Juego-preguntas.ipynb: Contiene el código para el juego de Preguntas y Respuestas de Geografía.
