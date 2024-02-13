@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://github.com/BSReguera/proyecto-da-promo-G-modulo-1-team-2/blob/main/Logo%20smile%20vintage%20video-games%E2%80%94%20GAME%20ON%20%E2%80%94.png" alt="Descripción de la imagen" width="100">
+  <img src="https://github.com/BSReguera/proyecto-da-promo-G-modulo-1-team-2/blob/main/Logo-smiley-vintage-videogames.png" alt="Descripción de la imagen" width="100">
 </div>
 
 
